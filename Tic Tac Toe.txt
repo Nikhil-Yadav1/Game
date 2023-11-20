@@ -1,0 +1,99 @@
+Player1 : Nikhil
+Player2 : Yash
+( 1, 1 )  ( 3, 3 )  ( 2, 2 )  ( 3, 1 )  ( 3, 2 )  ( 1, 2 )  ( 2, 3 )  ( 2, 1 )  ( 1, 3 )  
+Draw! No Wins No Lose
+
+Moves Used by Nikhil 6
+Moves Used by Yash 5
+
+Player1 : mnb
+Player2 : mkj
+( 1, 1 )  ( 2, 2 )  ( 3, 3 )  ( 1, 2 )  ( 3, 2 )  ( 3, 1 )  ( 1, 3 )  ( 2, 3 )  ( 2, 1 )  
+Draw! No Wins No Lose
+
+Moves Used by mnb 6
+Moves Used by mkj 5
+			Game Start
+Player1 : Nikhil
+Player2 : Suraj
+( 1, 1 )  ( 1, 2 )  ( 2, 3 )  ( 2, 2 )  ( 3, 2 )  			Game Start
+Player1 : hjh
+Player2 : ,mm
+( 1, 1 )  ( 1, 2 )  ( 3, 3 )  ( 2, 2 )  ( 1, 3 )  ( 3, 1 )  ( 2, 1 )  ( 2, 3 )  ( 3, 2 )  
+Draw! No Wins No Lose
+
+Moves Used by hjh 5
+Moves Used by ,mm 4
+			Game Game Finished
+
+			Game Start
+Player1 : jjm
+Player2 : mmj
+( 1, 1 )  ( 2, 2 )  ( 1, 3 )   UNDONE-> ( 1, 3) ( 3, 3 )  ( 1, 2 )  ( 3, 2 )  ( 3, 1 )  ( 1, 3 )  ( 2, 3 )  ( 2, 1 )  
+Draw! No Wins No Lose
+
+Moves Used by jjm 5
+Moves Used by mmj 4
+			Game Game Finished
+
+
+DATABASE ACCESSED BY Nikku
+			Game Started
+Player1 : mjk
+Player2 : sds
+( 1, 1 )  ( 2, 2 )  ( 3, 3 )  ( 1, 3 )  ( 3, 1 )  ( 2, 1 )  ( 3, 2 )  
+Congratulations! mjk, You Won The Game.
+
+Moves Used by mjk 4
+Moves Used by sds 3
+			Game Finished
+
+			Game Started
+Player1 : d
+Player2 : gd
+( 1, 1 )  ( 2, 2 )  ( 1, 4 )  ( 3, 3 )  ( 1, 2 )  ( 4, 4 )  ( 1, 3 )  
+Congratulations! d, You Won The Game.
+
+Moves Used by d 4
+Moves Used by gd 3
+			Game Finished
+
+			Game Started
+Player1 : dgd
+Player2 : nhj
+( 1, 1 )  ( 2, 2 )  ( 3, 3 )  ( 4, 4 )  ( 2, 3 )  ( 1, 2 )  ( 1, 3 )  ( 2, 4 )  ( 4, 3 )  
+Congratulations! dgd, You Won The Game.
+
+Moves Used by dgd 5
+Moves Used by nhj 4
+			Game Finished
+
+			Game Started
+Player1 : vcc
+Player2 : mki
+( 1, 1 )  ( 1, 2 )  ( 1, 3 )  ( 1, 4 )  ( 2, 1 )  ( 2, 2 )  ( 2, 3 )  ( 2, 4 )  ( 3, 2 )  ( 3, 3 )  ( 3, 4 )  ( 3, 1 )  ( 4, 1 )  ( 4, 2 )  ( 4, 3 )  ( 4, 4 )  
+Draw! No Wins No Lose
+
+Moves Used by vcc 8
+Moves Used by mki 8
+			Game Finished
+
+			Game Started
+Player1 : 1
+Player2 : 1
+( 1, 1 )  ( 1, 2 )  ( 2, 2 )  ( 2, 3 )  ( 3, 3 )  ( 2, 1 )  ( 1, 4 )  ( 4, 4 )  			Game Started
+Player1 : ds
+Player2 : bgf
+( 1, 1 )  ( 1, 2 )  ( 2, 2 )  ( 2, 3 )  ( 3, 3 )  ( 3, 4 )  ( 4, 4 )  
+Congratulations! ds, You Won The Game.
+
+Moves Used by ds 4
+Moves Used by bgf 3
+			Game Started
+Player1 : bd
+Player2 : mjk
+( 1, 4 )  
+Congratulations! bd, You Won The Game.
+
+Moves Used by bd 1
+Moves Used by mjk 0
